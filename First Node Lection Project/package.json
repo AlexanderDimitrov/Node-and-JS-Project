@@ -1,0 +1,15 @@
+{
+  "name": "test-node",
+  "engine": "6.5.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Pesho",
+  "license": "ISC",
+  "scripts": {
+   "start": "node index.js" 
+  },
+  "dependencies": {
+    "standard":"8.1.0"
+  }
+}
